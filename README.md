@@ -44,7 +44,11 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Basados en las necesidades de los personajes, nos inventamos un viaje para cada uno. Podrían ser viajes que perfectamente podrían hacer personas con otras necesidades.
+>>>
+>>> ![Método UX](img/larry-gardner-journey.png)
+>>>
+>>>
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
