@@ -34,7 +34,8 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Nos metimos en https://randomuser.me/ y, a partir de los datos que nos proporcionaban, nos inventamos un perfil cada uno para un personaje.
+>>> (img/larry-gardner.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
