@@ -36,7 +36,7 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 
 >>> Nos metimos en https://randomuser.me/ y, a partir de los datos que nos proporcionaban, nos inventamos un perfil cada uno para un personaje. Hemos intentado buscar personas fuera de nuestros perfiles, con diferente edad, aspiraciones, etc.
 >>>
->>> ![Método UX](img/larry-gardner.png)
+>>> ![Método UX](img/larry-gardner-persona.png)
 >>>
 >>> ![Método UX](img/Pedro.png)
 
