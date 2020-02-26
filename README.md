@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1_NJA.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Noelia Escalera Mejías     :octocat:     
+ * :bust_in_silhouette:  José Antonio Domínguez Gómez     :octocat:
 
 ----- 
 
@@ -29,8 +29,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes. Hemos elegido Showaround porque se sale un poco de la tónica, ya que es una aplicación que propone guías turísticos para enseñar un determinado lugar, por lo que seguramente habría más aspectos a mejorar.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
