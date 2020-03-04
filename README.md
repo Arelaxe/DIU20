@@ -46,7 +46,7 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 
 >>> Basados en las necesidades de los personajes, nos inventamos un viaje para cada uno. Podrían ser viajes que perfectamente podrían hacer personas con otras necesidades.
 >>>
->>> ![Método UX](img/larry-gardner-journey2.png)
+>>> ![Método UX](img/larry-gardner-journey.png)
 >>> ![Método UX](img/Journey-map-Pedro.png)
 >>>
 
