@@ -52,12 +52,8 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+En líneas generales, la interfaz de la aplicación no es mala, pero podría estar más clara. La funcionalidad deja mucho que desear.
+![Enlace a la Usability Review Completa](Usability.pdf)
 
 ## Paso 2. UX Design  
 
