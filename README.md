@@ -52,6 +52,7 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+>>> ![Método UX](img/Usability.pdf)
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
