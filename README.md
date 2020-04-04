@@ -61,21 +61,11 @@ En líneas generales, la interfaz de la aplicación no es mala, pero podría est
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
+Realmente la interfaz no era el mayor punto débil de Showaround, sino su lógica de negocio. Es en ello en lo que más nos hemos centrado en la malla receptora:
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+  (P2/User_task_matrix.png)
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Nuestra nueva propuesta recoge la esencia de la aplicación original: es una aplicación para buscar guías turísticos, pero irá más allá, guías y turistas podrán comunicarse sin intermediarios, los guías estarán verificados para una mayor fiabilidad, solamente habrá que pagar a los propios guías y además incluirá algunas nuevas funcionalidades.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
