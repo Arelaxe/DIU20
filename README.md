@@ -69,6 +69,7 @@ Realmente la interfaz no era el mayor punto débil de Showaround, sino su lógic
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 **User/task Matrix**
+
 Nuestra nueva propuesta recoge la esencia de la aplicación original: es una aplicación para buscar guías turísticos, pero irá más allá, guías y turistas podrán comunicarse sin intermediarios, los guías estarán verificados para una mayor fiabilidad, solamente habrá que pagar a los propios guías y además incluirá algunas nuevas funcionalidades.
 
 He aquí las tareas y los grupos de usuario que hemos escogido:
