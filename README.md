@@ -105,42 +105,55 @@ He aquí los bocetos Lo-Fi de las distintas pantallas. Se ha decidido hacerlos p
 ![Método UX](P2/Bocetos_LoFi/inicio_sesion.png)
 
 **Registrarse**
+
 ![Método UX](P2/Bocetos_LoFi/registrarse.png)
 
 **Sobre nosotros**
+
 ![Método UX](P2/Bocetos_LoFi/sobre_nosotros.png)
 
 **Buscar guía**
+
 ![Método UX](P2/Bocetos_LoFi/buscar_guia.png)
 
 **Datos del guía**
+
 ![Método UX](P2/Bocetos_LoFi/datos_del_guia.png)
 
 **Contacto**
+
 ![Método UX](P2/Bocetos_LoFi/chat.png)
 
 **Crear ruta**
+
 ![Método UX](P2/Bocetos_LoFi/crear_ruta.png)
 
 **Ver mis rutas**
+
 ![Método UX](P2/Bocetos_LoFi/ver_mis_rutas.png)
 
 **Convertirse en guía**
+
 ![Método UX](P2/Bocetos_LoFi/convertirse_en_guia.png)
 
-**Turista en mi zona**
-![Método UX](P2/Bocetos_LoFi/Turistas_en_mi_zona.png)
+**Turistas en mi zona**
+
+![Método UX](P2/Bocetos_LoFi/turistas_en_mi_zona.png)
 
 **Datos del turista**
+
 ![Método UX](P2/Bocetos_LoFi/datos_del_turista.png)
 
 **Información del perfil**
+
 ![Método UX](P2/Bocetos_LoFi/informacion_del_perfil.png)
 
 **Editar perfil**
+
 ![Método UX](P2/Bocetos_LoFi/editar_perfil.png)
 
 **Notificaciones**
+
 ![Método UX](P2/Bocetos_LoFi/notificaciones.png)
 
 ## Paso 3. Make (Prototyping) 
