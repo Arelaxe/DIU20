@@ -53,7 +53,7 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-En líneas generales, la interfaz de la aplicación no es mala, pero podría estar más clara. La funcionalidad deja mucho que desear.
+Visualmente, la interfaz de la aplicación no es mala. El problema viene a la hora de la funcionalidad, que es muy escasa si no se está registrado, poniendo muchas trabas. Además su lógica de negocio también deja que desear.
 ![Enlace a la Usability Review Completa](Usability.pdf)
 
 ## Paso 2. UX Design  
