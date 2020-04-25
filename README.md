@@ -24,12 +24,12 @@ Ver más en ![README](P1/README.md)
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Era necesario investigar si ya existía alguna aplicación de este tipo. Encontramos Showaround, que tiene bastante buenas ideas, sin embargo falla en la ejecución de estas. No enseña mucha información de primeras, algunas funcionalidades están escondidas y/o son difíciles de usar. Nuestra aplicación debe distanciarse de eso. Decidimos estudiar más en profundidad la aplicación Showaround.
+Era necesario investigar si ya existía alguna aplicación de este tipo. Encontramos Showaround, que tiene bastante buenas ideas, sin embargo, falla en la ejecución de estas. No enseña mucha información de primeras, parte de la funcionalidad es difícilmente accesible o difícil de usar. Nuestra aplicación debe distanciarse de eso. Decidimos estudiar más en profundidad la aplicación Showaround.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Decidimos crear dos personas que podrían estar interesadas en usar una app de este tipo, para ver cuál serán sus problemas e inquietudes a la hora de usar la app.
+Decidimos crear dos personas que podrían estar interesadas en usar una app de este tipo, para ver cuál serán sus problemas e inquietudes a la hora de usar la app, para así poder realizar un mejor análisis de las necesidades que debería cubrir nuestra aplicación.
 >>>
 >>> ![Método UX](img/iago-romero-P.png)
 >>>
@@ -38,14 +38,14 @@ Decidimos crear dos personas que podrían estar interesadas en usar una app de e
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Decidimos crear un Journey Map para cada una de estas personas y así encontrar qué problemas se podrían encontrar a la hora de usar la app.
+Decidimos crear un Journey Map para cada una de estas personas y así encontrar qué problemas se podrían encontrar a la hora de usar la app. De este modo, podríamos solventar posibles errores de diseño en una etapa muy temprana del desarrollo, lo cual aumenta las posibilidades de éxito del proyecto y disminuye el riesgo y el coste del mismo.
 >>>
 >>> ![Método UX](img/iago-romero-J.png)
 >>>
 >>> ![Método UX](img/Journey-map-Pedro.png)
 >>>
 
-Con ello descubrimos que la aplicación ponía demasiadas trabas al usuario para realizar acciones, pedía dinero casi al empezar. Además como habíamos apreciado antes, seguramente no serían conscientes de otras funcionalidades que ofrece la app.
+Con ello descubrimos que la aplicación ponía demasiadas trabas al usuario durante su uso. El principal inconveniente es que solicitaba un pago habiendo mostrado sólo una pequeña parte de la funcionalidad, lo cual transmite desconfianza y predispone negativamente al usuario, a la vez que hace que el usuario no pueda probar el resto de la funcionalidad de nuestra aplicación, por lo que no se le crea la necesidad de usarla y cae rápidamente en el olvido.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -78,7 +78,7 @@ Hemos considerado que los grupos más críticos son los jóvenes y las familias,
 
 **Sitemap**
 
-También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura. Cabe destacar que hemos aumentado bastante la funcionalidad disponible que habrá sin estar registrado:
+También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura:
 
 ![Método UX](P2/Sitemap.png)
 Nota: Desde todas las hojas se puede ir a cualquier opción del menú (ver los bocetos Lo-Fi más tarde), no se han incluido todas las flechas por claridad.
@@ -94,34 +94,71 @@ Y un labelling para identificar las posibles acciones y tareas:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Tras esto pasamos al diseño de los bocetos LoFi de la app. He aquí algunos de los más interesantes (ver más en el Readme específico de este apartado). 
+He aquí los bocetos Lo-Fi de las distintas pantallas. Se ha decidido hacerlos para ordenador (navegador web en concreto), ya que consideramos que es donde la aplicación puede funcionar mejor, pues se trata de una aplicación que se usa una vez tienes el viaje planificado y en la que vas a invertir tiempo. Es importante hacer una aclaración: Si el usuario es un guía, la opción Ser Guía del menú se cambiará por Buscar Turistas.
 
-Como podemos ver se ha creado una vista distinta según si estás identificado o no:
+**Página principal (sin identificación)**
 
 ![Método UX](P2/Bocetos_LoFi/pagina_principal_sin_identificacion.png)
 
+**Página principal (con identificación)**
+
 ![Método UX](P2/Bocetos_LoFi/pagina_principal_con_identificacion.png)
 
-También hemos hecho un chat con la finalidad de que guía y turista puedan comunicarse sin intermediarios.
+**Inicio sesión**
+ 
+![Método UX](P2/Bocetos_LoFi/inicio_sesion.png)
+
+**Registrarse**
+
+![Método UX](P2/Bocetos_LoFi/registrarse.png)
+
+**Sobre nosotros**
+
+![Método UX](P2/Bocetos_LoFi/sobre_nosotros.png)
+
+**Buscar guía**
+
+![Método UX](P2/Bocetos_LoFi/buscar_guia.png)
+
+**Datos del guía**
+
+![Método UX](P2/Bocetos_LoFi/datos_del_guia.png)
+
+**Contacto**
 
 ![Método UX](P2/Bocetos_LoFi/chat.png)
 
-Hemos hecho más intuitiva la funcionalidad de crear rutas:
+**Crear ruta**
 
 ![Método UX](P2/Bocetos_LoFi/crear_ruta.png)
 
-Y un apartado especial para convertirse en guía:
+**Ver mis rutas**
+
+![Método UX](P2/Bocetos_LoFi/ver_mis_rutas.png)
+
+**Convertirse en guía**
 
 ![Método UX](P2/Bocetos_LoFi/convertirse_en_guia.png)
 
-Los guías podrán ver los turistas que hay en su zona:
+**Turistas en mi zona**
 
 ![Método UX](P2/Bocetos_LoFi/turistas_en_mi_zona.png)
 
-Y hemos hecho más detallada la información del perfil:
+**Datos del turista**
+
+![Método UX](P2/Bocetos_LoFi/datos_del_turista.png)
+
+**Información del perfil**
 
 ![Método UX](P2/Bocetos_LoFi/informacion_del_perfil.png)
 
+**Editar perfil**
+
+![Método UX](P2/Bocetos_LoFi/editar_perfil.png)
+
+**Notificaciones**
+
+![Método UX](P2/Bocetos_LoFi/notificaciones.png)
 
 ## Paso 3. Make (Prototyping) 
 
