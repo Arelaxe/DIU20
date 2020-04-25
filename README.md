@@ -3,38 +3,33 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_NJA.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Lookaround
 
-Descripción: 
+Descripción: Lookaround es una aplicación de economía colaborativa orientada a guías turísticos. En ella se podrá bien contratar un guía turístico, bien ofrecer una ruta en la que necesitas guía u ofrecerte como guía y ganar dinero.
 
-Logotipo: 
+Logotipo: ![Método UX](img/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Noelia Escalera Mejías     :octocat:     
  * :bust_in_silhouette:  José Antonio Domínguez Gómez     :octocat:
 
 ----- 
-
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
+Todos tenemos en mente alguna aplicación de economía colaborativa para buscar compañero de viaje pero, ¿alguna vez hemos pensado en una aplicación destinada a encontrar guías turísticos? Podría ser una gran idea, ya que hay algunos sitios donde sería prácticamente imposible encontrar un guía. Además, ¿quién mejor que alguien que vive en un lugar para enseñarte sus mayores virtudes?
 
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
+Ver más en ![README](P1/README.md)
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes. Hemos elegido Showaround porque se sale un poco de la tónica, ya que es una aplicación que propone guías turísticos para enseñar un determinado lugar, por lo que seguramente habría más aspectos a mejorar.
+Era necesario investigar si ya existía alguna aplicación de este tipo. Encontramos Showaround, que tiene bastante buenas ideas, sin embargo falla en la ejecución de estas. No enseña mucha información de primeras, algunas funcionalidades están escondidas y/o son difíciles de usar. Nuestra aplicación debe distanciarse de eso. Decidimos estudiar más en profundidad la aplicación Showaround.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Nos metimos en https://randomuser.me/ y, a partir de los datos que nos proporcionaban, nos inventamos un perfil cada uno para un personaje. Hemos intentado buscar personas fuera de nuestros perfiles, con diferente edad, aspiraciones, etc.
+Decidimos crear dos personas que podrían estar interesadas en usar una app de este tipo, para ver cuál serán sus problemas e inquietudes a la hora de usar la app.
 >>>
 >>> ![Método UX](img/iago-romero-P.png)
 >>>
@@ -43,47 +38,55 @@ Las aplicaciones que se nos daban a elegir tenían que ver con compartir viajes.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Basados en las necesidades de los personajes, nos inventamos un viaje para cada uno. Podrían ser viajes que perfectamente podrían hacer personas con otras necesidades.
+Decidimos crear un Journey Map para cada una de estas personas y así encontrar qué problemas se podrían encontrar a la hora de usar la app.
 >>>
 >>> ![Método UX](img/iago-romero-J.png)
 >>>
 >>> ![Método UX](img/Journey-map-Pedro.png)
 >>>
 
+Con ello descubrimos que la aplicación ponía demasiadas trabas al usuario para realizar acciones, pedía dinero casi al empezar. Además como habíamos apreciado antes, seguramente no serían conscientes de otras funcionalidades que ofrece la app.
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Visualmente, la interfaz de la aplicación no es mala. El problema viene a la hora de la funcionalidad, que es muy escasa si no se está registrado, poniendo muchas trabas. Además su lógica de negocio también deja que desear.
+
+Decidimos explorar esta app más en profundidad y hacer una Usability Review, para así detectar más problemas y virtudes de la app, con este análisis llegamos a la conclusión de que visualmente, la interfaz de la aplicación no es mala. El problema viene a la hora de la funcionalidad, que es muy escasa si no se está registrado, poniendo muchas trabas. Además su lógica de negocio también deja que desear.
 ![Enlace a la Usability Review Completa](Usability.pdf)
 
 ## Paso 2. UX Design  
 
+Ver más en ![README](P2/README.md)
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-Realmente la interfaz no era el mayor punto débil de Showaround, sino su lógica de negocio. Es en ello en lo que más nos hemos centrado en la malla receptora:
+
+Era hora de pensar que podíamos mejorar en esta aplicación, para ello decidimos hacer la siguiente malla receptora:
 
   ![Método UX](P2/Feedback_capture_grid.png)
   
+ Realmente la interfaz no era el mayor punto débil de Showaround, sino su lógica de negocio.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 **User/task Matrix**
 
-Nuestra nueva propuesta recoge la esencia de la aplicación original: es una aplicación para buscar guías turísticos, pero irá más allá, guías y turistas podrán comunicarse sin intermediarios, los guías estarán verificados para una mayor fiabilidad, solamente habrá que pagar a los propios guías y además incluirá algunas nuevas funcionalidades.
+Ya con las ideas más claras, realizamos un User/task Matrix de lo que iba a ser nuestra aplicación. Nuestra nueva propuesta recoge la esencia de la aplicación original: es una aplicación para buscar guías turísticos, pero irá más allá, guías y turistas podrán comunicarse sin intermediarios, los guías estarán verificados para una mayor fiabilidad, solamente habrá que pagar a los propios guías y además incluirá algunas nuevas funcionalidades.
 
 He aquí las tareas y los grupos de usuario que hemos escogido:
   ![Método UX](P2/User_task_matrix.png)
 Hemos considerado que los grupos más críticos son los jóvenes y las familias, ya que creemos que son los que más van a usar la aplicación, las familias debido a que les puede ayudar a organizar un viaje mejor en el caso de que tengan niños y los jóvenes por el tema de convertirse en guía. Las tareas más críticas serían Buscar Guía, Crear ruta y Ofrecerse como guía, ya que son las principales y por tanto las que más se usuarán.
 
 **Sitemap**
+
+También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura:
+
 ![Método UX](P2/Sitemap.png)
 Nota: Desde todas las hojas se puede ir a cualquier opción del menú (ver los bocetos Lo-Fi más tarde), no se han incluido todas las flechas por claridad.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
+Y un labelling para identificar las posibles acciones y tareas:
 
 ![Método UX](P2/labelling.png)
 
