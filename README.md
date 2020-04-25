@@ -78,7 +78,7 @@ Hemos considerado que los grupos más críticos son los jóvenes y las familias,
 
 **Sitemap**
 
-También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura:
+También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura. Cabe destacar que aumentamos bastante la funcionalidad disponible sin estar registrados:
 
 ![Método UX](P2/Sitemap.png)
 Nota: Desde todas las hojas se puede ir a cualquier opción del menú (ver los bocetos Lo-Fi más tarde), no se han incluido todas las flechas por claridad.
@@ -94,93 +94,90 @@ Y un labelling para identificar las posibles acciones y tareas:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-He aquí los bocetos Lo-Fi de las distintas pantallas. Se ha decidido hacerlos para ordenador (navegador web en concreto), ya que consideramos que es donde la aplicación puede funcionar mejor, pues se trata de una aplicación que se usa una vez tienes el viaje planificado y en la que vas a invertir tiempo. Es importante hacer una aclaración: Si el usuario es un guía, la opción Ser Guía del menú se cambiará por Buscar Turistas.
+Diseñamos entonces los bocetos Lo-Fi, los hicimos para web, ya que creemos que va a ser el hogar principal de la aplicación. He aquí algunos de los más interesantes, se pueden ver todos en el Readme P3.
+
+
 
 **Página principal (sin identificación)**
 
 ![Método UX](P2/Bocetos_LoFi/pagina_principal_sin_identificacion.png)
 
-**Página principal (con identificación)**
-
-![Método UX](P2/Bocetos_LoFi/pagina_principal_con_identificacion.png)
-
-**Inicio sesión**
- 
-![Método UX](P2/Bocetos_LoFi/inicio_sesion.png)
-
-**Registrarse**
-
-![Método UX](P2/Bocetos_LoFi/registrarse.png)
-
-**Sobre nosotros**
-
-![Método UX](P2/Bocetos_LoFi/sobre_nosotros.png)
-
-**Buscar guía**
-
-![Método UX](P2/Bocetos_LoFi/buscar_guia.png)
-
-**Datos del guía**
+Hemos aumentado la información disponible sobre los guías:
 
 ![Método UX](P2/Bocetos_LoFi/datos_del_guia.png)
 
-**Contacto**
+También hemos añadido un chat para que guía y turista puedan comunicarse sin intermediarios:
 
 ![Método UX](P2/Bocetos_LoFi/chat.png)
 
-**Crear ruta**
+Hemos hecho más claro el proceso de crear rutas:
 
 ![Método UX](P2/Bocetos_LoFi/crear_ruta.png)
 
-**Ver mis rutas**
+Y también el de verlas:
 
 ![Método UX](P2/Bocetos_LoFi/ver_mis_rutas.png)
 
-**Convertirse en guía**
+Hemos creado un espacio específico para convertirse en guía:
 
 ![Método UX](P2/Bocetos_LoFi/convertirse_en_guia.png)
 
-**Turistas en mi zona**
+Los guías podrán consultar los turistas de su zona:
 
 ![Método UX](P2/Bocetos_LoFi/turistas_en_mi_zona.png)
 
-**Datos del turista**
+Y sus datos:
 
 ![Método UX](P2/Bocetos_LoFi/datos_del_turista.png)
 
-**Información del perfil**
+Y hemos aumentado la información del perfil:
 
 ![Método UX](P2/Bocetos_LoFi/informacion_del_perfil.png)
 
-**Editar perfil**
-
-![Método UX](P2/Bocetos_LoFi/editar_perfil.png)
-
-**Notificaciones**
-
-![Método UX](P2/Bocetos_LoFi/notificaciones.png)
 
 ## Paso 3. Make (Prototyping) 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Investigamos la historia de Moodboard para inspirarnos en ella. El proceso de creación de MuseMap nos ha parecido bastante completo. Destacamos el análisis centrado en el usuario, que les ha hecho descubrir las verdaderas necesidades de éstos. Gracias al mapa de empatía se han podido averiguar las tendencias de las personas, con las entrevistas de los usuarios se han descubierto necesidades más específicas, con el mapa de afinidad se ha podido indagar más en los puntos descubiertos en el mapa de empatía y con las personas y mapas de experiencia se han descubierto las necesidades de distintos perfiles.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+Nos gustaría también destacar el Task Analysis, ya que nos ha parecido interesante y diferente a lo usado en la práctica, y nos ayuda a imaginar distintas situaciones, pero quizás añadiríamos un párrafo explicativo como en el Journey Map, aunque no necesariamente se eche en falta. Además toda la información que viene tras el Journey Map, nos ayuda a identificar mejor las motivaciones del usuario.
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+Por otro lado, destacar el análisis competitivo, que les ha permitido identificar los puntos que pueden hacer que su aplicación se diferencie del resto identificando qué es lo que necesita el usuario y qué no necesita, como por ejemplo añadir recomendaciones personales o evitar que los usuarios sean consultados por otros usuarios.
+
+También destacamos el gran proceso de depuración de los prototipos, haciendo varias versiones cada vez entrando más en detalle. El cambio que habríamos hecho nosotros es hacer el Sitemap antes de los primeros diseños, para así tener una visión general de la estructura de la aplicación.
+
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Plantear Landing Page 
+Nuestra propuesta de logotipo:
+(img/logotipo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+Estas han sido las decisiones de diseño que hemos tomado:
 
-![Método UX](img/mockup.png)  3.d Mockup
+- Para la fuente del sitio hemos optado por una fuente de estilo {\it Sans Serif}, ya que son muy adecuadas para lectura en ordenador (que va a ser el nicho principal de nuestra aplicación) y que transmiten una sensación amigable a la vez que formal. En concreto hemos decidido usar {\it Open Sans}, debido a que nos ha parecido que no tiene una forma excesivamente arriesgada, que no llama la atención de manera excesiva, pero cumple su objetivo, es decir, hace que la página sea atractiva.
+
+- En cuanto a los colores hemos tomado las siguientes decisiones:
+  - De color de fondo hemos elegido blanco, debido a que aportará luminosidad y claridad a la página.
+  
+  - Como color principal del texto hemos escogido el negro, para contrastar con el blanco de fondo.
+  
+  - Los otros colores principales que usaremos son la triada naranja-verde-morado, ya que son una buena combinación equilibrada y adecuada para cualquier tipo de persona. Además el naranja inspira energía y diversión que es algo que quiere transmitir nuestra página. De esta triada, el color que tendrá más protagonismo será el naranja, seguido del verde, que usaremos para transmitir calma y por último el morado que usaremos para resaltar algo interesante. Cabe mencionar que usaremos tonalidades pastel de estos colores, que suelen venir bien tanto para temas oscuros como claros.
+  
+  - De manera adicional usaremos el rojo para indicar alerta (por ejemplo en el botón de darse de baja).
+  
+- La aplicación tendrá un menú de navegación en la parte superior, al tener un control de acceso basado en roles, las acciones del menú no serán siempre las mismas debido a dichos roles (la funcionalidad disponible y por tanto el contenido de este menú dependerá del usuario), de esta forma tendremos un diseño más limpio. Además, en este menú se resaltará el lugar de la aplicación en la que el usuario se encuentra.
+
+- No será necesario usar breadcrums, ya que a partir de los ID's de cada página y del menú mencionado anteriormente no se favorece el uso de esta herramienta.
+
+- Donde proceda mostrar una galería, esta se mostrará en forma de carrusel de imágenes, ya es más dinámico, que es una sensación que quiere transmitir la página. Si el usuario lo desea, podrá pulsar un botón para que las imágenes se muestren de forma estática.
+
+![Método UX](img/mockup.png)  3.d Vídeo
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
