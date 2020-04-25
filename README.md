@@ -96,7 +96,7 @@ Y un labelling para identificar las posibles acciones y tareas:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Diseñamos entonces los bocetos Lo-Fi, los realizamos para web, ya que creemos que es más representativo que el diseño móvil al prever que el PC será el dispositivo más usado para acceder a la aplicación. He aquí algunos de los más interesantes (se pueden ver todos en el Readme de la P3):
+Diseñamos entonces los bocetos Lo-Fi, los realizamos para web, ya que creemos que es más representativo que el diseño móvil al prever que el PC será el dispositivo más usado para acceder a la aplicación. He aquí algunos de los más interesantes (se pueden ver todos en el Readme de la P2):
 
 Hemos aumentado la información disponible sobre los guías:
 
@@ -131,6 +131,8 @@ Y hemos aumentado la información del perfil:
   ![Método UX](P2/Bocetos_LoFi/informacion_del_perfil.png)
 
 ## Paso 3. Make (Prototyping) 
+
+Ver más en ![README](P3/README.md)
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
