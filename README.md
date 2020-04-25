@@ -96,12 +96,6 @@ Y un labelling para identificar las posibles acciones y tareas:
 
 Diseñamos entonces los bocetos Lo-Fi, los hicimos para web, ya que creemos que va a ser el hogar principal de la aplicación. He aquí algunos de los más interesantes, se pueden ver todos en el Readme P3.
 
-
-
-**Página principal (sin identificación)**
-
-![Método UX](P2/Bocetos_LoFi/pagina_principal_sin_identificacion.png)
-
 Hemos aumentado la información disponible sobre los guías:
 
 ![Método UX](P2/Bocetos_LoFi/datos_del_guia.png)
@@ -153,7 +147,7 @@ También destacamos el gran proceso de depuración de los prototipos, haciendo v
 ----
 
 Nuestra propuesta de logotipo:
-(img/logotipo.png)
+ ![Método UX](img/logotipo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
