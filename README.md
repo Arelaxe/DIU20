@@ -78,7 +78,7 @@ Hemos considerado que los grupos más críticos son los jóvenes y las familias,
 
 **Sitemap**
 
-También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura:
+También fue necesario crear un Sitemap con el objetivo de tener más clara la estructura. Cabe destacar que hemos aumentado bastante la funcionalidad disponible que habrá sin estar registrado:
 
 ![Método UX](P2/Sitemap.png)
 Nota: Desde todas las hojas se puede ir a cualquier opción del menú (ver los bocetos Lo-Fi más tarde), no se han incluido todas las flechas por claridad.
@@ -94,71 +94,34 @@ Y un labelling para identificar las posibles acciones y tareas:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-He aquí los bocetos Lo-Fi de las distintas pantallas. Se ha decidido hacerlos para ordenador (navegador web en concreto), ya que consideramos que es donde la aplicación puede funcionar mejor, pues se trata de una aplicación que se usa una vez tienes el viaje planificado y en la que vas a invertir tiempo. Es importante hacer una aclaración: Si el usuario es un guía, la opción Ser Guía del menú se cambiará por Buscar Turistas.
+Tras esto pasamos al diseño de los bocetos LoFi de la app. He aquí algunos de los más interesantes (ver más en el Readme específico de este apartado). 
 
-**Página principal (sin identificación)**
+Como podemos ver se ha creado una vista distinta según si estás identificado o no:
 
 ![Método UX](P2/Bocetos_LoFi/pagina_principal_sin_identificacion.png)
 
-**Página principal (con identificación)**
-
 ![Método UX](P2/Bocetos_LoFi/pagina_principal_con_identificacion.png)
 
-**Inicio sesión**
- 
-![Método UX](P2/Bocetos_LoFi/inicio_sesion.png)
-
-**Registrarse**
-
-![Método UX](P2/Bocetos_LoFi/registrarse.png)
-
-**Sobre nosotros**
-
-![Método UX](P2/Bocetos_LoFi/sobre_nosotros.png)
-
-**Buscar guía**
-
-![Método UX](P2/Bocetos_LoFi/buscar_guia.png)
-
-**Datos del guía**
-
-![Método UX](P2/Bocetos_LoFi/datos_del_guia.png)
-
-**Contacto**
+También hemos hecho un chat con la finalidad de que guía y turista puedan comunicarse sin intermediarios.
 
 ![Método UX](P2/Bocetos_LoFi/chat.png)
 
-**Crear ruta**
+Hemos hecho más intuitiva la funcionalidad de crear rutas:
 
 ![Método UX](P2/Bocetos_LoFi/crear_ruta.png)
 
-**Ver mis rutas**
-
-![Método UX](P2/Bocetos_LoFi/ver_mis_rutas.png)
-
-**Convertirse en guía**
+Y un apartado especial para convertirse en guía:
 
 ![Método UX](P2/Bocetos_LoFi/convertirse_en_guia.png)
 
-**Turistas en mi zona**
+Los guías podrán ver los turistas que hay en su zona:
 
 ![Método UX](P2/Bocetos_LoFi/turistas_en_mi_zona.png)
 
-**Datos del turista**
-
-![Método UX](P2/Bocetos_LoFi/datos_del_turista.png)
-
-**Información del perfil**
+Y hemos hecho más detallada la información del perfil:
 
 ![Método UX](P2/Bocetos_LoFi/informacion_del_perfil.png)
 
-**Editar perfil**
-
-![Método UX](P2/Bocetos_LoFi/editar_perfil.png)
-
-**Notificaciones**
-
-![Método UX](P2/Bocetos_LoFi/notificaciones.png)
 
 ## Paso 3. Make (Prototyping) 
 
