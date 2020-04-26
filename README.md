@@ -156,7 +156,7 @@ Nuestra propuesta de logotipo:
 
 Estas han sido las decisiones de diseño que hemos tomado:
 
-- Para la fuente del sitio hemos optado por una fuente de tipo {\it Sans Serif}, ya que son muy adecuadas para su lectura y transmiten una sensación amigable a la vez que formal. En concreto hemos decidido usar {\it Open Sans}, debido a que nos ha parecido que no tiene una forma excesivamente arriesgada, que no llama la atención de manera excesiva, pero cumple su objetivo, es decir, hace que la página sea atractiva.
+- Para la fuente del sitio hemos optado por una fuente de tipo Sans Serif, ya que son muy adecuadas para su lectura y transmiten una sensación amigable a la vez que formal. En concreto hemos decidido usar Open Sans, debido a que nos ha parecido que no tiene una forma excesivamente arriesgada, que no llama la atención de manera excesiva, pero cumple su objetivo, es decir, hace que la página sea atractiva.
 
 - En cuanto a los colores hemos tomado las siguientes decisiones:
 
