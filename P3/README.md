@@ -1,6 +1,6 @@
  ## Paso 3. Make (Prototyping) 
  
- ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+ ![Método UX](../img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 Investigamos la historia de Moodboard para inspirarnos en ella. El proceso de creación de MuseMap nos ha parecido bastante completo. Destacamos el análisis centrado en el usuario, que les ha hecho descubrir las verdaderas necesidades que éstos presentan. Gracias al mapa de empatía, se ha podido averiguar las tendencias de las personas. A través de las entrevistas de los usuarios, se han descubierto necesidades más específicas. Elaborando el mapa de afinidad, se ha podido indagar más en los puntos descubiertos en el mapa de empatía. Y, con las personas y mapas de experiencia, se han descubierto las necesidades de distintos perfiles.
@@ -11,13 +11,13 @@ Por otro lado, cabe destacar el análisis competitivo, que les ha permitido iden
 
 También destacamos el gran proceso de depuración de los prototipos, haciendo varias versiones cada vez entrando más en detalle. El cambio que habríamos hecho nosotros es hacer el Sitemap antes de los primeros diseños, para así tener una visión general de la estructura de la aplicación.
 
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](../img/landing-page.png)  3.b Logotipo
 ----
 
 Nuestra propuesta de logotipo:
- ![Método UX](img/logotipo.png)
+ ![Método UX](../img/logotipo.png)
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](../img/guidelines.png) 3.c Guidelines
 ----
 
 Estas han sido las decisiones de diseño que hemos tomado:
@@ -40,7 +40,7 @@ Estas han sido las decisiones de diseño que hemos tomado:
 
 - Donde proceda mostrar una galería, ésta se mostrará en forma de carrusel de imágenes, ya es más dinámico, que es algo acorde a la sensación que quiere transmitir la página. Si el usuario lo desea, podrá pulsar un botón para desplegar las imágenes para que se muestren de forma estática, de manera que pueda abarcarlas de un vistazo.
 
-![Método UX](img/mockup.png)  3.d Vídeo
+![Método UX](../img/mockup.png)  3.d Vídeo
 ----
 
 https://drive.google.com/file/d/1ZQ8NIlQ3OB8eO08B4Goayf95jgPhatBf/view?usp=sharing
