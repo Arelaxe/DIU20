@@ -177,7 +177,7 @@ Estas han sido las decisiones de diseño que hemos tomado:
 ![Método UX](img/mockup.png)  3.d Vídeo
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+https://drive.google.com/file/d/1ZQ8NIlQ3OB8eO08B4Goayf95jgPhatBf/view?usp=sharing
 
 
 ## Paso 4. UX Check (Usability Testing) 
