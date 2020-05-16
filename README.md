@@ -185,16 +185,14 @@ Estas han sido las decisiones de diseño que hemos tomado:
 https://drive.google.com/file/d/1ZQ8NIlQ3OB8eO08B4Goayf95jgPhatBf/view?usp=sharing
 
 
-## Paso 4. UX Check (Usability Testing) 
+## Paso 4. Evaluación
 
+Ver más en ![README](P4/README.md)
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a Casos
 ----
 
-
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A: 
+- 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -227,23 +225,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> Añadir report de usabilidad para práctica B 
 
 
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
