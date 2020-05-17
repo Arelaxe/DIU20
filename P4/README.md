@@ -59,7 +59,6 @@ Puntos débiles:
 
 
 ## Lecciones aprendidas
----
 
 En estas prácticas hemos seguido paso a paso el proceso detrás del diseño de una aplicación orientado a ofrecer una experiencia de usuario de calidad. En la primera, hemos hecho un estudio de mercado, creado 2 personas ficticias, enfrentado estas personas al uso de una aplicación de la competencia y hecho una revisión de usabilidad de dicha aplicación. En la segunda, hemos analizado la aplicación escogida y hemos realizado una propuesta de valor para ofrecer nosotros una alternativa, planificando acciones y usuarios, y dando unas pinceladas apariencia final del producto. En la tercera, hemos analizado una historia de usuario de la competencia y la hemos utilizado para aprender a elaborar nosotros la nuestra propia, junto con un logotipo y detallando las decisiones de diseño. En la última hemos evaluado y analizado el mismo proceso seguido por otros grupos de prácticas.
 
