@@ -252,12 +252,16 @@ Puntos débiles:
   - No tiene introducción y la propuesta de valor deja que desear
   - Sitemap bastante escueto, no deja clara la estructura de la página
 
+## Lecciones aprendidas
 
+En estas prácticas hemos seguido paso a paso el proceso detrás del diseño de una aplicación orientado a ofrecer una experiencia de usuario de calidad. En la primera, hemos hecho un estudio de mercado, creado 2 personas ficticias, enfrentado estas personas al uso de una aplicación de la competencia y hecho una revisión de usabilidad de dicha aplicación. En la segunda, hemos analizado la aplicación escogida y hemos realizado una propuesta de valor para ofrecer nosotros una alternativa, planificando acciones y usuarios, y dando unas pinceladas apariencia final del producto. En la tercera, hemos analizado una historia de usuario de la competencia y la hemos utilizado para aprender a elaborar nosotros la nuestra propia, junto con un logotipo y detallando las decisiones de diseño. En la última hemos evaluado y analizado el mismo proceso seguido por otros grupos de prácticas.
 
+En esta última práctica hemos tenido que valorar el proceso seguido por otros grupos de prácticas, además de destacar sus puntos fuertes y puntos débiles. Este proceso nos ha servido para darnos cuenta de nuestros errores y aciertos a lo largo del proceso.
 
+Destacamos de nuestro propio proceso la planificación a la hora de realizar las prácticas, generalmente, sin dejarlo para última hora, lo cual nos ha permitido hacer frente a imprevistos y mantener un ritmo más relajado y una actitud positiva. Acerca de los requerimientos, destacamos el acierto en el diseño del sitio.
 
+Por el contrario, destacamos como aspectos que podríamos haber mejorado el proceso del estudio de mercado, que se realizó convenientemente pero se detalló poco y debió compararse más alternativas en él, el proceso de elaboración de las personas, que no resultaron lo suficientemente profundas o redondas y debieron tener más personalidad y la duración y el enfoque del vídeo de la historia de usuario, que, si bien no está mal realizado, debimos resumir más aspectos en los que no hacía falta profundizar y por ello tuvo una duración excesiva.
 
+Pero, en especial, en esta última práctica hemos aprendido que, realizando un proceso como el de la última práctica para nuestro propio trabajo después de cada práctica, esto es, un análisis y retrospectiva, podríamos haber solucionado dichos problemas y haber realizado un mejor trabajo.
 
-
-
-
+La valoración del trabajo realizado y de las lecciones aprendidas es positiva y el estado de ánimo del equipo también es positivo.
